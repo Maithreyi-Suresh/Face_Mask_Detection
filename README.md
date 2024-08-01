@@ -9,7 +9,6 @@ This project aims to detect the presence of face masks on individuals in images 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Face Mask Detection Project uses a convolutional neural network (CNN) to identify whether individuals are wearing masks. The model is trained on a dataset containing images of people with and without masks, providing a binary classification output.
